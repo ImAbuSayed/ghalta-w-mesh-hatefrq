@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ghalta-w-mesh-hatefrq/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License Abu Sayed's Ghalta W Mesh Hatefrq](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
